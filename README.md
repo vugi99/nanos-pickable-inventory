@@ -1,2 +1,3 @@
 # nanos-pickable-inventory
-Pickable Inventory Library
+
+# [Wiki](https://github.com/vugi99/nanos-pickable-inventory/wiki)
